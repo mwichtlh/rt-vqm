@@ -30,7 +30,7 @@ This implementation requires uncompressed, planar YUV420 (I420) files, without a
 According to the recommendation from the VQM authors, video sequences should be between 5 and 15 seconds.
 The LIVE and LIVE MOBILE database provide appropriate material for testing, see: http://live.ece.utexas.edu/research/quality/live_mobile_video.html
 
-To perform a VQM mesaurement, run:
+To perform a VQM measurement, run:
 
 ./RT-VQM ORIG_PATH PROC_PATH ORIG_WIDTH ORIG_HEIGHT PROC_WIDTH PROC_HEIGHT ORIG_FPS PROC_FPS
 
@@ -57,11 +57,11 @@ To perform a VQM mesaurement, run:
 	(Optional)LENGTH	Length (in frames) of material which should be analyzed (default: whole video)
 	
 
-An example coud be:
+An example could be:
 
 ./RT-VQM ./original.yuv ./processed.yuv 1280 720 1280 720 30 30 1 original processed 0 30 600
 
 Unequal framerates are only supported if they differ by the power of 2 (e.g. 15fps and 30 fps)
-Optional parameters are not necessary but if they are applied thay have to be placed in the correct order
+Optional parameters are not necessary but if they are applied they have to be placed in the correct order.
 
 
