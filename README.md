@@ -15,6 +15,12 @@ For details on VQM in general, see: http://www.its.bldrdoc.gov/resources/video-q
 > U.S. Patent Number 5,446,492, entitled "A Perception-based Video Quality Measurement System," issued on August 29, 1995.
 > U.S. Patent Number 6,496,221, entitled "In-Service Video Quality Measurement System Utilizing an Arbitrary Bandwidth Ancillary Data Channel," issued December 17, 2002.
 
+Please note that there is no warranty for the program, to the extent permitted by applicable law. The program ist provided "as is" and there is no warranty of any kind. 
+
+## Support
+
+This program is a research prototype, not a software project intended to be used in productive systems. Consequently, we cannot provide support for it. However, feel free to fork the code for your own purposes.
+
 ## Citing
 
 If you use this code for publications, please cite the following publication.
