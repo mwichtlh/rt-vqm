@@ -5,7 +5,7 @@ The algorithm was accelerated by performing runtime critical operations on a GPU
 
 ## License Information
 
-Please note that VQM is not Open Source software, but may be used for commercial and non-commercial purposes.
+Please note that VQM is not open source, but not under GPL. However, it may be used for commercial and non-commercial purposes.
 For details on VQM in general, see: http://www.its.bldrdoc.gov/resources/video-quality-research/video-home.aspx
 
 > THE NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION, INSTITUTE FOR TELECOMMUNICATION SCIENCES ("NTIA/ITS") DOES NOT MAKE ANY WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA ACCURACY.  THIS SOFTWARE IS PROVIDED "AS IS."  NTIA/ITS does not warrant or make any representations regarding the use of the software or the results thereof, including but not limited to the correctness, accuracy, reliability or usefulness of the software or the results.  You can use, copy, modify, and redistribute the NTIA/ITS developed software upon your acceptance of these terms and conditions and upon your express agreement to provide appropriate acknowledgments of NTIA's ownership of and development of the software by keeping this exact text present in any copied or derivative works.
